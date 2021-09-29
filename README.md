@@ -9,4 +9,4 @@ step 4 : edit the contents to match your taste,
 
 if you encounter any problem please endevour to contact me so i can help you out, enjoy......
 
-![Optional Text](../master/ContactForm/image.jpeg)
+![Optional Text](/image.jpeg)
