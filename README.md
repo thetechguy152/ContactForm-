@@ -1,4 +1,4 @@
-this a html, CSS , php  and JavaScript validation contact form, 
+This is a html, CSS , php  and JavaScript validation contact form that you can place in your projects, 
 you can set your server email and password or you can use your gmail to configure the SMTP Server.
 
 How to use it
