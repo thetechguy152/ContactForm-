@@ -8,3 +8,5 @@ step 3 : edit the confirm.php file and add in your server details. it will word 
 step 4 : edit the contents to match your taste, 
 
 if you encounter any problem please endevour to contact me so i can help you out, enjoy......
+
+![Optional Text](../master/ContactForm/image.jpeg)
